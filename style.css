@@ -1,5 +1,9 @@
-img{
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("ecologie/ecologie.jpg");
     background-size: cover;
-}
+    background-attachment: fixed;
+  }
 
 

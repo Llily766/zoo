@@ -16,7 +16,7 @@
     Page d'accueil:
     
     Arcadia est située en France,près de la forêt de brocéliande ,en bretagne, depuis 1960.
-    Ils possèdent tout un panal d'animaux et essaye de reconstituer à l'identique leurs habitats (savane,marais,jungle)
+    Ils possèdent tout un panel d'animaux et essaye de reconstituer à l'identique leurs habitats (savane,marais,jungle)
     Les animaux sont inspectés chaque jour par un vétérinaire.
 
     D'un point de vue financier ,le zoo se porte bien ,cela fait plaisir à José,directeur de ce zoo. 
@@ -31,16 +31,16 @@ l’application, il ressente les valeurs de l’écologie dont nous sommes fiere
 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="images carroussel/lion jungle.jpg" class="d-block w-100" alt="...">
+      <img src="images carroussel/lion jungle.jpg" class="d-block w-80" alt="...">
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="images carroussel/marais.jpg" class="d-block w-100" alt="...">
+      <img src="images carroussel/marais.jpg" class="d-block w-80" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="images carroussel/savanes singes.jpg" class="d-block w-100" alt="...">
+      <img src="images carroussel/savanes singes.jpg" class="d-block w-80" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="images carroussel/éléphantssavanes.jpg" class="d-block w-100" alt="...">
+      <img src="images carroussel/éléphantssavanes.jpg" class="d-block w-80" alt="...">
     </div>
 
 
@@ -58,8 +58,7 @@ l’application, il ressente les valeurs de l’écologie dont nous sommes fiere
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
 
 <h3> Les différents habitats sont la Savane;la Jungle,le Marais.
-    Les services sont des soins adaptés à leurs habitats,un vétérinaire qui vient tous les jours et une nourriture adaptée à l'animal</h3>
-    <h3> Les animaux:les lions,
+    Les animaux sont :
         les singes,
         les éléphants,
         les oiseaux,
