@@ -1,3 +1,6 @@
+
+
+
 <?php
-echo '<img src="assets/premiere image/girafle" alt="">';
+echo '<img src="assets/image/girafle.jpg" alt="">';
 ?>
