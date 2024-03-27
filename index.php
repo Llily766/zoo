@@ -10,7 +10,7 @@
     jungle,
     Les animaux sont inspectés chaque jour par un vétérinaire.
 
-    D'un point de vue financier ,le zoo se porte bien ,cela fait plaisir à José,directeur de ce zoo. 
+    D un point de vue financier ,le zoo se porte bien ,cela fait plaisir à José,directeur de ce zoo. 
     A ce jour, José n'a pas de site web pour son zoo ,par conséquent il a mandaté Josette pour 
     trouver une entreprise ,qui va lui permettre de créer son site web.
     Après l'obtention du diplome , j'ai été mandaté au sein de la société DEVSoft 

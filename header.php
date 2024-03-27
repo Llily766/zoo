@@ -10,4 +10,4 @@
     
 </head>
 <body>
-<?php include "Applications.php" ?>
+`<?php include 'navbar/Application.php'; ?>`

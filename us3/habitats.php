@@ -1,3 +1,3 @@
 <?php
-echo '<img src="assets/habitas/elephant.jpg" alt="">';
+echo '<img src="assets/premiere image/girafle" alt="">';
 ?>
